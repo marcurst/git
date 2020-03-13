@@ -56,22 +56,13 @@
     background: #d10011;
 }
 
-main{
-    position: relative;
-}
-
-main img{
-    position: relative;
-    width: 100%;
-    height: 100px;
-    contain: cover;
-}
-
-
 main .image1{
+    position: relative;
+}
+
+main .image1 .texte{
     position: absolute;
 }
-
 
 
 
