@@ -61,7 +61,10 @@ main .image1{
 }
 
 main .image1 .texte{
-    position: absolute;
+    background-image: url("../images/index.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
 }
 
 
